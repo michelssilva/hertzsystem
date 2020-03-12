@@ -1,0 +1,819 @@
+
+
+/*!**Cor quando passar por cima**!*/
+/*#minhaTabela tr:hover td{*/
+    /*background-color: #feffb7;*/
+/*}*/
+
+
+/*#minhaTabela{*/
+    /*width:100%;*/
+    /*margin:0 auto;*/
+    /*border:0;*/
+    /*box-shadow: 0 5px 30px darkgrey;*/
+    /*border-spacing: 0;*/
+
+/*}*/
+
+/*#minhaTabela thead th{*/
+    /*font-weight: bold;*/
+    /*background-color: black;*/
+    /*color:white;*/
+
+    /*padding:5px 10px;*/
+
+/*}*/
+
+/*#minhaTabela tr td{*/
+    /*padding:10px 5px;*/
+    /*text-align: center;*/
+
+
+    /*cursor: pointer; !**importante para não mostrar cursor de texto**!*/
+/*}*/
+
+/*#minhaTabela tr td:last-child{*/
+
+    /*text-align: center;*/
+
+/*}*/
+
+/*!**Cores**!*/
+/*#minhaTabela tr:nth-child(odd){*/
+    /*background-color: #eee;*/
+/*}*/
+
+/*!**Cor quando passar por cima**!*/
+/*!*#minhaTabela tr:hover td{*!*/
+/*!*background-color: #feffb7;*!*/
+/*!*}*!*/
+
+/*!**Cor quando selecionado**!*/
+
+
+
+
+
+
+
+/*!**Cor quando passar por cima**!*/
+/*#Tabela1 tr:hover td{*/
+    /*background-color: #feffb7;*/
+/*}*/
+
+
+/*#Tabela1{*/
+    /*width:100%;*/
+    /*margin:0 auto;*/
+    /*border:0;*/
+    /*box-shadow: 0 5px 30px darkgrey;*/
+    /*border-spacing: 0;*/
+
+/*}*/
+
+/*#Tabela1 thead th{*/
+    /*font-weight: bold;*/
+    /*background-color: black;*/
+    /*color:white;*/
+
+    /*padding:5px 10px;*/
+
+/*}*/
+
+/*#Tabela1 tr td{*/
+    /*padding:10px 5px;*/
+    /*text-align: center;*/
+
+
+    /*cursor: pointer; !**importante para não mostrar cursor de texto**!*/
+/*}*/
+
+/*#Tabela1 tr td:last-child{*/
+
+    /*text-align: center;*/
+
+/*}*/
+
+/*!**Cores**!*/
+/*#Tabela1 tr:nth-child(odd){*/
+    /*background-color: #eee;*/
+/*}*/
+
+/*!**Cor quando passar por cima**!*/
+/*!*#minhaTabela tr:hover td{*!*/
+/*!*background-color: #feffb7;*!*/
+/*!*}*!*/
+
+/*!**Cor quando selecionado**!*/
+/*#Tabela1 tr.selecionado td{*/
+    /*background-color: #aff7ff;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela1 tr:hover td{
+    background-color: #feffb7;
+}
+
+
+#minhaTabela1{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela1 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela1 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela1 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela1 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela1 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela2 tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela2{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela2 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela2 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela2 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela2 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela2 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela3 tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela3{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela3 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela3 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela3 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela3 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela3 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela4 tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela4{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela4 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela4 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela4 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela4 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela4 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela5 tr:hover td{
+    background-color: #feffb7;
+}
+
+
+#minhaTabela5{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela5 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela5 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela5 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela5 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela5 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela6 tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela6{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela6 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela6 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela6 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela6 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela6 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela7tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela7{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela7 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela7 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela7 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela7 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela7 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela8 tr:hover td{
+    background-color: #feffb7;
+}
+
+
+#minhaTabela8{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela8 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela8 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela8 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela8 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela8 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#minhaTabela9{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela9 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela9 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela9 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela9 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela10 tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela10{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela10 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela10 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela10 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela10 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela10 tr.selecionado td{
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Cor quando passar por cima**/
+#minhaTabela11 tr:hover td{
+    background-color: #feffb7;
+}
+
+#minhaTabela11{
+    width:100%;
+    margin:0 auto;
+    border:0;
+    box-shadow: 0 5px 30px darkgrey;
+    border-spacing: 0;
+
+}
+
+#minhaTabela11 thead th{
+    font-weight: bold;
+    background-color: black;
+    color:white;
+
+    padding:5px 10px;
+
+}
+
+#minhaTabela11 tr td{
+    padding:10px 5px;
+    text-align: center;
+
+
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+#minhaTabela11 tr td:last-child{
+
+    text-align: center;
+
+}
+
+/**Cores**/
+#minhaTabela11 tr:nth-child(odd){
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+/*#minhaTabela tr:hover td{*/
+/*background-color: #feffb7;*/
+/*}*/
+
+/**Cor quando selecionado**/
+#minhaTabela11 tr.selecionado td{
+    background-color: #aff7ff;
+}
